@@ -4,7 +4,7 @@ All things technical
 ## Markdown
 - [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
-- [SY](https://gist.github.com/stevenyap/7038119)
+- [Github Flavored Markdown](https://gist.github.com/stevenyap/7038119)
 
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
