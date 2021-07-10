@@ -14,4 +14,4 @@ https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
 
 ## Linux/Ubuntu
 
-- [Linux/ubuntu](./topics/linux_ubuntu.md)
+- [Linux/ubuntu](./topic/linux_ubuntu.md)
