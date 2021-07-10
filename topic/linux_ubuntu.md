@@ -42,4 +42,4 @@ history # List command history
 history | grep command-name     # Search history for a particular command string
 ```
 `CTRL` + `R` - Search command history. Hit again for previous command.
-`CTRL` + `G` - Preserves the command selected and gets out of search mode
+`CTRL` + `G` - Preserves the command selected and gets out of search mode.
