@@ -1,1 +1,8 @@
-This is just a placeholder
+# Linux / Ubuntu
+
+## System
+
+```bash
+# Clear Syslog
+> /var/log/syslog
+```
