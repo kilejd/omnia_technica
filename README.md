@@ -12,4 +12,4 @@ https://gist.github.com/stevenyap/7038119
 
 https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md
 
-##Linux/Ubuntu
+## Linux/Ubuntu
