@@ -10,6 +10,6 @@ All things technical
 
 - [Supported Code Highlighting](https://github.com/highlightjs/highlight.js/blob/main/SUPPORTED_LANGUAGES.md)
 
-## Linux/Ubuntu
+## Linux / Ubuntu
 
-- [Linux/ubuntu](./topic/linux_ubuntu.md)
+- [Linux/Ubuntu](./topic/linux_ubuntu.md)
